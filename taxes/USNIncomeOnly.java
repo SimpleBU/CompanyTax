@@ -7,3 +7,4 @@ public class USNIncomeOnly extends TaxSystem {
         return (int) (debit * 0.06);
     }
 }
+
